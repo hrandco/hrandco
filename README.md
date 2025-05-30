@@ -1,4 +1,5 @@
 ## Hi there 👋
+### HR and Co provide custom HR solutions to boost productivity and drive business success with innovative, people-first strategies.
 
 <!--
 **hrandco/hrandco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
