@@ -1,23 +1,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.hrandco.com.au/index.html</loc>
+		<loc>https://hrandco.com.au/</loc>
 	</url>
 	<url>
-		<loc>https://www.hrandco.com.au/services.html</loc>
+		<loc>https://hrandco.com.au/index.html</loc>
 	</url>
 	<url>
-		<loc>https://www.hrandco.com.au/about.html</loc>
+		<loc>https://hrandco.com.au/services.html</loc>
 	</url>
 	<url>
-		<loc>https://www.hrandco.com.au/contact.html</loc>
+		<loc>https://hrandco.com.au/about.html</loc>
 	</url>
 	<url>
-		<loc>https://www.hrandco.com.au/not_found.html</loc>
+		<loc>https://hrandco.com.au/contact.html</loc>
 	</url>
 	<url>
-		<loc>https://www.hrandco.com.au/internal_server_error.html</loc>
+		<loc>https://hrandco.com.au/not_found.html</loc>
 	</url>
 	<url>
-		<loc>https://www.hrandco.com.au/workplace-training.html</loc>
+		<loc>https://hrandco.com.au/internal_server_error.html</loc>
+	</url>
+	<url>
+		<loc>https://hrandco.com.au/workplace-training.html</loc>
 	</url>
 </urlset>
